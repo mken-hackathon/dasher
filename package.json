@@ -3,7 +3,8 @@
   "version": "1.4.1",
   "description": "A simple way to bridge your Amazon Dash buttons to HTTP services.",
   "scripts": {
-    "start": "node app.js"
+    "start": "sudo node app.js",
+    "find": "./script/find_button"
   },
   "repository": {
     "type": "git",

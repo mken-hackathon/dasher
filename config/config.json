@@ -1,0 +1,14 @@
+{
+  "buttons": [
+    {
+      "name": "ネピア",
+      "address": "18:74:2e:95:9c:ad",
+      "debug": true
+    },
+    {
+      "name": "レノア",
+      "address": "b4:7c:9c:5b:d7:ee",
+      "debug": true
+    }
+  ]
+}
