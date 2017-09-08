@@ -3,12 +3,16 @@
     {
       "name": "ネピア",
       "address": "18:74:2e:95:9c:ad",
-      "debug": true
+      "method": "POST",
+      "url": "https://team2-api.mken.site/button/18742e959cad/activity",
+      "headers": {"Context-Type": "application/json"} 
     },
     {
       "name": "レノア",
       "address": "b4:7c:9c:5b:d7:ee",
-      "debug": true
+      "method": "POST",
+      "url": "https://team2-api.mken.site/button/b47c9c5bd7ee/activity",
+      "headers": {"Context-Type": "application/json"} 
     }
   ]
 }
